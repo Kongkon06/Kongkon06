@@ -66,8 +66,7 @@ I'm a **full-stack developer** from **India**, passionate about building efficie
 
 - 🏫 **BCA Student at Dibrugarh University**
 - 💼 Aspiring **Software Engineer**, seeking **new opportunities**
-- 🏡 Dream: A well-paying job, a great home, and a fulfilling life
-- 🎮 Loves playing **The Finals** & enjoys **rock music** *(I See Red 🎵)*
+- 🎮 Loves playing **The Finals** & enjoys **rock, pop and japanese music** *(I See Red 🎵)*
 - 🤖 Interested in **Web Development, AI, automation, and system-level programming**
 
 ---
@@ -110,13 +109,6 @@ I have used nvim, vim and doom emacs for development.
 
 ---
 
-### 📫 Connect with Me
-
-
-[]\( https://x.com/Kongkon04420305?t=DBEMAWc7AxOVZxI6OdfTww&s=08 )
-[]\( kbora3535@gmail.com )
-
----
 
 ### 🤖 Fun Fact
 
