@@ -14,12 +14,11 @@ I'm a **full-stack developer** from **India**, passionate about building efficie
 
 ### 🔗 Deployed Projects
 
-| Project Name | Description | Live Demo |
-|--------------|-------------|-----------|
-| **My Tasks** | A Task planner & productivity app | [🔗 Demo](your-link-here) |
-| **Payment Web Clone** | A full-stack monorepo-based payment platform | [🔗 Demo](your-link-here) |
-| **Medium Clone** | A blogging platform built with Next.js | [🔗 Demo](your-link-here) |
-| **Suffle Play** | Track assignments & deadlines easily | [🔗 Demo](your-link-here) |
+| Project Name    | Description                                         | Live Demo                                 |
+|-----------------|-----------------------------------------------------|-------------------------------------------|
+| **My Tasks**    | A Task planner & productivity app                   | [🔗 Demo](your-link-here)                 |
+| **Media Musse** | A Ecommerce plattform for buying musical instruments| [🔗 Demo](https://media-musse.vercel.app/)|
+| **Suffle Play** | Choose what song to Play live                       | [🔗 Demo](https://suffle-play.vercel.app) |
 
 ---
 
@@ -55,6 +54,10 @@ I'm a **full-stack developer** from **India**, passionate about building efficie
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
+  <img src="https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white" alt="neovim"/>
+  <img src="https://img.shields.io/badge/VIM-%2311AB00.svg?&style=for-the-badge&logo=vim&logoColor=white" alt="vim"/>
+  <img src="https://img.shields.io/badge/Emacs-%237F5AB6.svg?&style=for-the-badge&logo=gnu-emacs&logoColor=white" alt="emacs"/>
+  <img src="https://img.shields.io/badge/Doom_Emacs-%23512340.svg?&style=for-the-badge&logo=gnu-emacs&logoColor=white" alt="doom emacs"/>
 </p>
 
 ---
@@ -65,7 +68,7 @@ I'm a **full-stack developer** from **India**, passionate about building efficie
 - 💼 Aspiring **Software Engineer**, seeking **new opportunities**
 - 🏡 Dream: A well-paying job, a great home, and a fulfilling life
 - 🎮 Loves playing **The Finals** & enjoys **rock music** *(I See Red 🎵)*
-- 🤖 Interested in **AI, automation, and system-level programming**
+- 🤖 Interested in **Web Development, AI, automation, and system-level programming**
 
 ---
 
