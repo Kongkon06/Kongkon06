@@ -72,8 +72,11 @@ I'm a **full-stack developer** from **India**, passionate about building efficie
 ### 📫 Connect with Me
 
 <p align="left">
-  <a href="your-linkedin-profile-link" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  <a href="mailto:kbora3525.email@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+   <a href="https://x.com/Kongkon04420305?t=DBEMAWc7AxOVZxI6OdfTww&s=08" target="_blank">
+    <img src="https://img.shields.io/badge/-Twitter-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter"/>
   </a>
 </p>
 
@@ -89,11 +92,11 @@ I have used nvim, vim and doom emacs for development.
 
 ### 📊 GitHub Stats
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Kongkon06&show_icons=true&theme=radical)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Kongkon06&show_icons=true&theme=tokyonight)
 
 ### 🎯 Top Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kongkon06&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kongkon06&layout=compact&theme=tokyonight)
 ### 👨‍💻 About Me
 
 - 🏫 **BCA Student at Dibrugarh University**
