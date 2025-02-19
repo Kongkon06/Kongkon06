@@ -89,11 +89,11 @@ I have used nvim, vim and doom emacs for development.
 
 ### 📊 GitHub Stats
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Kongkon06&show_icons=true&theme=radical)
 
 ### 🎯 Top Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kongkon06&layout=compact&theme=radical)
 ### 👨‍💻 About Me
 
 - 🏫 **BCA Student at Dibrugarh University**
@@ -109,16 +109,6 @@ I have used nvim, vim and doom emacs for development.
 
 []\( https://x.com/Kongkon04420305?t=DBEMAWc7AxOVZxI6OdfTww&s=08 )
 []\( kbora3535@gmail.com )
-
----
-
-### 📊 GitHub Stats
-
-
-
----
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kongkon06&show_icons=true&theme=radical)
-
 
 ---
 
