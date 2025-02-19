@@ -54,10 +54,10 @@ I'm a **full-stack developer** from **India**, passionate about building efficie
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
-  <img src="https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white" alt="neovim"/>
-  <img src="https://img.shields.io/badge/VIM-%2311AB00.svg?&style=for-the-badge&logo=vim&logoColor=white" alt="vim"/>
-  <img src="https://img.shields.io/badge/Emacs-%237F5AB6.svg?&style=for-the-badge&logo=gnu-emacs&logoColor=white" alt="emacs"/>
-  <img src="https://img.shields.io/badge/Doom_Emacs-%23512340.svg?&style=for-the-badge&logo=gnu-emacs&logoColor=white" alt="doom emacs"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vim/vim-original.svg" alt="vim" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/neovim/neovim-original.svg" alt="neovim" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/emacs/emacs-original.svg" alt="emacs" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/hlissner/doom-emacs/master/assets/icons/32x32.png" alt="doom emacs" width="40" height="40"/>
 </p>
 
 ---
