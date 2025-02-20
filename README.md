@@ -16,7 +16,7 @@ I'm a **full-stack developer** from **India**, passionate about building efficie
 
 | Project Name    | Description                                         | Live Demo                                 |
 |-----------------|-----------------------------------------------------|-------------------------------------------|
-| **My Tasks**    | A Task planner & productivity app                   | [🔗 Demo](your-link-here)                 |
+| **My Tasks**    | A Task planner & productivity app                   | [🔗 Demo](https://my-taskv2.vercel.app/)                 |
 | **Media Musse** | A Ecommerce plattform for buying musical instruments| [🔗 Demo](https://media-musse.vercel.app/)|
 | **Suffle Play** | Choose what song to Play live                       | [🔗 Demo](https://suffle-play.vercel.app) |
 
@@ -104,7 +104,7 @@ I have used nvim, vim and doom emacs for development.
 - 🏫 **BCA Student at Dibrugarh University**
 - 💼 Aspiring **Software Engineer**, seeking **new opportunities**.
 - 🏡 Dream: A well-paying job, a great home, and a fulfilling life.
-- 🎮 Loves playing **The Finals** & enjoys **rock music** *(I See Red 🎵)*
+- 🎮 Loves playing **The Finals** & enjoys **rock, pop and japanese music** *(Love the Brakence 🎵)*
 - 🤖 Interested in **AI, automation, and system-level programming**.
 
 ---
