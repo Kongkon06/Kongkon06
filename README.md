@@ -66,7 +66,7 @@ I'm a **full-stack developer** from **India**, passionate about building efficie
 
 - 🏫 **BCA Student at Dibrugarh University**
 - 💼 Aspiring **Software Engineer**, seeking **new opportunities**
-- 🎮 Loves playing **The Finals** & enjoys **rock, pop and japanese music** *(I See Red 🎵)*
+- 🎮 Loves playing **The Finals** & enjoys **rock, pop and japanese music**
 - 🤖 Interested in **Web Development, AI, automation, and system-level programming**
 
 ---
