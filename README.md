@@ -82,16 +82,6 @@ I'm a **full-stack developer** from **India**, passionate about building efficie
   </a>
 </p>
 
----
-
-### 🤖 Fun Fact
-
-💡 Did you know? I can **write neural networks in C from scratch** and love tweaking **Neovim & Emacs** to fit my workflow!
-
-I have used nvim, vim and doom emacs for development.
-
----
-
 ### 📊 GitHub Stats
 
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Kongkon06&show_icons=true&theme=tokyonight)
